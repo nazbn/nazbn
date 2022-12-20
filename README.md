@@ -1,8 +1,12 @@
 ### Welcome to my GitHub 👋
 
-💻 I am a data science student soon to be graduated
+💻 I am a data science student soon to be graduated.
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/nazbn/)
+🔭 I’m currently working on a repository that helps everyone learn about time series forcasting (stay tuned).
+
+🌱 I’m currently learning about protein design.
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/nazbn/).
 
 <!--
 **nazbn/nazbn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
