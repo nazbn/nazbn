@@ -1,6 +1,7 @@
 ### Welcome to my GitHub 👋
 
 💻 I am a data science student soon to be graduated
+
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/nazbn/)
 
 <!--
