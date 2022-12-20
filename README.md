@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome to my GitHub 👋
+
+💻 I am a data science student soon to be graduated
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/nazbn/)
 
 <!--
 **nazbn/nazbn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
