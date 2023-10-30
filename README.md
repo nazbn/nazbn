@@ -1,5 +1,7 @@
 ### Welcome to my GitHub 👋
 
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/nazbn/).
+<!--
 💻 I am a data science student soon to be graduated.
 
 🔭 I’m currently working on a repository that helps everyone learn about time series forcasting (stay tuned).
@@ -8,7 +10,7 @@
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/nazbn/).
 
-<!--
+
 **nazbn/nazbn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
